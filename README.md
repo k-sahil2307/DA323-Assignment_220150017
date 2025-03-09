@@ -86,7 +86,7 @@ Contains countries_with_flags_and_anthems.csv and countries.json for reference.
 
 How to Use
 Clone the repository:
-git clone https://github.com/raunitpatel/DA323-assignment.git
+git clone https://github.com/k-sahil2307/DA323-Assignment_220150017
 Navigate to the desired dataset directory.
 Utilize Jupyter notebooks (.ipynb files) for interactive exploration.
 Execute Python scripts to process and analyze the datasets.
